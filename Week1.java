@@ -61,7 +61,7 @@ public class Week1 {
     }
 }*/
 //6.
-/*
+
 public class Week1{
     public static void main(String[] args){
         System.out.println("Please enter two numbers: ");
@@ -81,4 +81,3 @@ public class Week1{
 
     }
 }
-*/
